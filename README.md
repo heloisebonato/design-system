@@ -1,6 +1,6 @@
 # Design System
 
- # Technologies Used
+<h3> Technologies Used </h3>
  <ul>
  <li> <code> React.js </code> </li>
  <li> <code> Tailwindcss </code> </li>
